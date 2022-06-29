@@ -14,7 +14,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <spark.version>1.6.0</spark.version>
     <Hbase.version>1.0.0</Hbase.version>
-    <zookeeper.version>3.4.5</zookeeper.version>
+    <zookeeper.version>3.4.14</zookeeper.version>
     <jackson.version>1.9.13</jackson.version>
     <hadoop.version>2.6.0</hadoop.version>
   </properties>
